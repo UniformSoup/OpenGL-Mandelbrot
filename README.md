@@ -1,3 +1,5 @@
 # OpenGL-Mandelbrot
-A Mandelbrot fractal made in OpenGL
-To build it requires OpenGL 4 + GLFW
+A Mandelbrot fractal made in OpenGL.
+
+# Build Requirements
+This project requires OpenGL 4 + GLFW + GLAD.
